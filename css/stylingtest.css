@@ -1,0 +1,35 @@
+body {
+    /* display: flex;
+    flex-direction: column;
+    align-items: center;   */
+    background-color: rgb(215, 235, 241);
+    font-family: cursive;
+}
+div{
+    text-align: center;
+}
+h1 {
+    border: 4px solid rgb(163, 118, 118); 
+    padding: 10px;
+    display: inline-block; 
+    border-style: dashed;
+}
+
+.profile{
+    border: 5px solid pink;
+    align-items: center; 
+    border-radius: 100px;  
+}
+.color{
+    color: rgb(231, 142, 142);
+    text-transform: uppercase;
+    font-size: 18;
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: underline;
+    text-shadow: 5px black;
+}
+
+.borders{
+    border-color: aliceblue;
+    border-style: dashed;
+}
